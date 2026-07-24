@@ -83,33 +83,6 @@ Features:
 
 ---
 
-# 📈 Dashboard Preview
-
-<p align="center">
-    <img src="images/dashboard.png" width="100%">
-</p>
-
-The interactive Power BI dashboard enables stakeholders to:
-
-- Monitor the complete marketing funnel
-- Track conversion rates across funnel stages
-- Identify customer drop-off points
-- Compare communication channel performance
-- Analyze customer demographics
-- Support data-driven marketing decisions
-
----
-
-# 📉 Conversion Outcome
-
-<p align="center">
-    <img src="images/conversion_outcome.png" width="75%">
-</p>
-
-This visualization highlights the overall distribution between customers who converted and those who did not, providing a quick overview of campaign effectiveness.
-
----
-
 # 🔍 Key Insights
 
 ### 📱 Communication Channel Performance
